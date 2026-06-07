@@ -1,0 +1,9 @@
+[package]
+name = "signal-transduction"
+version = "0.1.0"
+edition = "2021"
+description = "Biological signal processing pathway simulation with receptors, kinases, and amplifiers"
+repository = "https://github.com/SuperInstance/signal-transduction"
+license = "MIT"
+
+[dependencies]
